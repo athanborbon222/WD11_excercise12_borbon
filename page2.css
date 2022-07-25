@@ -1,0 +1,30 @@
+body{
+    background-color:  rgb(229, 191, 20);
+    background-attachment: fixed;
+}
+
+.nav-item{
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.boxshadow{
+    box-shadow: 4px 4px 0 black, 4px 4px 0 black, 4px 4px 0 black, 4px 4px 0 black;
+}
+
+.display-2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 4px 4px 0 black, 4px 4px 0 black, 4px 4px 0 black, 4px 4px 0 black;
+}
+
+.imgbackdrop{
+background-color: rgb(229, 191, 20);
+}
+
+.displayy-5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 4px 4px 0 black, 4px 4px 0 black, 4px 4px 0 black, 4px 4px 0 black;
+}
+
+

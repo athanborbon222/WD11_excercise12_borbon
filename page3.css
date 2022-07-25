@@ -1,0 +1,23 @@
+body{
+    background-color:  rgb(96, 7, 7);
+    background-attachment: fixed;
+}
+
+
+
+.nav-item{
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.display-2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 4px 4px 0 black, 4px 4px 0 black, 4px 4px 0 black, 4px 4px 0 black;
+
+}
+
+.textshadow{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 4px 4px 0 black, 4px 4px 0 black, 4px 4px 0 black, 4px 4px 0 black;
+}
+
