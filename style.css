@@ -1,0 +1,38 @@
+body{
+    background-color:  rgb(229, 191, 20);
+    background-attachment: fixed;
+}
+
+
+
+
+.display-1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 5px 5px 0 black, 5px 5px 0 black, 5px 5px 0 black, 5px 5px 0 black;
+}
+
+
+.img1 .img-overlay{
+    position: absolute;
+    top: 20%;
+    margin-left: 10px;
+    z-index: 20;
+}
+
+.img2 .img-overlay{
+    position: absolute;
+    top: 20%;
+    margin-left: 10px;
+    z-index: 20;
+}
+
+.img3 .img-overlay{
+    position: absolute;
+    top: 20%;
+    margin-left: 10px;
+    z-index: 20;
+}
+
+.btn{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
